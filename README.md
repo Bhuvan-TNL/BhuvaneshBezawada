@@ -32,5 +32,5 @@
 ---
 
 ## 📫 Contact Me
-📧 bhuvanesh.yourmail@example.com  
-🌐 Fiverr: [fiverr.com/yourusername](https://www.fiverr.com/)  
+📧 bhuvaneshbezawada13@gmail.com  
+🌐 Fiverr: [fiverr.com/bhuvanesh_13](https://www.fiverr.com/)  
