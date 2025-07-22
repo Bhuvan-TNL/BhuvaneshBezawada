@@ -1,1 +1,36 @@
 # BhuvaneshBezawada
+# 👋 Hi, I'm Bhuvanesh
+
+🎓 3rd Year CSE Student | 💻 Python Developer | 🤖 AI Enthusiast
+
+---
+
+## 💡 What I Do
+- 🧠 AI Mini Projects – Chatbots, Gesture Detection, Recommenders
+- 🐍 Python Automation Scripts
+- 🌐 Flask-based Web Apps
+- ✍️ Technical Writing & Study Notes
+- 🎨 Canva + YouTube Content Assistance
+
+---
+
+## 🛠️ Tech Stack
+`Python` | `Flask` | `OpenCV` | `TensorFlow` | `C++` | `HTML/CSS` | `Canva`
+
+---
+
+## 🔧 Sample Projects
+
+| Project | Description | Demo / Code |
+|--------|-------------|-------------|
+| 🧠 AI Chatbot | A simple chatbot using Flask + TensorFlow | [GitHub Link](#) |
+| ✋ Gesture Control | Control LEDs using hand gestures (OpenCV + Arduino) | [GitHub Link](#) |
+| 📚 Task Manager | CRUD web app with Flask + SQLite | [GitHub Link](#) |
+
+*(Replace # with real links as you upload your project files)*
+
+---
+
+## 📫 Contact Me
+📧 bhuvanesh.yourmail@example.com  
+🌐 Fiverr: [fiverr.com/yourusername](https://www.fiverr.com/)  
