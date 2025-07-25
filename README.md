@@ -1,7 +1,7 @@
 # BhuvaneshBezawada
 # 👋 Hi, I'm Bhuvanesh
 
-🎓 3rd Year CSE Student | 💻 Python Developer | 🤖 AI Enthusiast
+🎓 3rd Year CSE Student | 💻 Python Developer | 🤖 AI Enthusiast | Full Stack Developer 
 
 ---
 
@@ -11,6 +11,7 @@
 - 🌐 Flask-based Web Apps
 - ✍️ Technical Writing & Study Notes
 - 🎨 Canva + YouTube Content Assistance
+- Personal Websites 
 
 ---
 
